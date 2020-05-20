@@ -6,7 +6,7 @@ https://com-pamavoc-nodechat.herokuapp.com/
 
 Roadmap 
 
-v0.1 : basic chat with client/server. 
+v0.1 : basic chat in realtime with client/server. 
 
 v0.2 : username support.
 
