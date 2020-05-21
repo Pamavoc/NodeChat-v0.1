@@ -13,6 +13,8 @@ v0.2 : username support.
 
 v0.3 : colors for the chat.
 
-v0.4 : real UI.
+v0.4 : sound for the chat
 
-v0.5 : history of the chat with a DB.
+v0.5 : real UI.
+
+v0.6 : history of the chat with a DB.
