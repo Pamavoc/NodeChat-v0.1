@@ -1,5 +1,5 @@
 # NodeChat-v0.1
-socketio nodechat 
+
 made with node.js, socket.io, express.js and scss
 
 https://com-pamavoc-nodechat.herokuapp.com/
