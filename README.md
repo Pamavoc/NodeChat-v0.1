@@ -5,11 +5,13 @@ made with node.js, socket.io, express.js and scss
 https://com-pamavoc-nodechat.herokuapp.com/
 
 
-HOW IT WORKS ?
+<b>HOW IT WORKS</b> 
 
 
 
-ROADMAP
+
+<b>ROADMAP</b> 
+
 
 v0.1 : basic chat in realtime with client/server. 
 
