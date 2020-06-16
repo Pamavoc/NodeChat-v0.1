@@ -7,8 +7,8 @@ https://com-pamavoc-nodechat.herokuapp.com/
 
 <b>HOW IT WORKS</b> 
 
-
-
+- The chat is split in 2 parts : server.js /client.js
+- We have a node server running in the background of our site. The server is used to retrieve some file like the css file, the client.js...
 
 <b>ROADMAP</b> 
 
