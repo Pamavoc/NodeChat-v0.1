@@ -1,0 +1,50 @@
+body, html {
+    margin:0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    font-family: 'Righteous', cursive;
+
+    form{
+        position: absolute;
+        bottom: 0;
+        height:50px;
+        width: 100%;
+        display: flex;
+        border:1px solid black;
+
+        input {
+            width: 100%;
+
+            padding: 10px;
+            outline: none;
+            border: 0;
+
+        }
+
+        button {
+            background-color: burlywood;
+            border:none;
+            padding: 10px;
+        }
+
+        
+    }
+    #conversation {
+        height: calc(100% - 50px);
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        margin:0;
+        padding: 0;
+
+        li{
+            padding: 5px 10px;
+           
+
+            &:nth-child(odd) {
+                background-color: coral;
+            }
+        }
+    }
+}
