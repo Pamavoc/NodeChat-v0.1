@@ -14,8 +14,9 @@ https://com-pamavoc-nodechat.herokuapp.com/
 - When something is done on the client side, we have an event associated with it in our server.js file.
 - For example, when there is a connexion, the server is here (with the help of socket.io) to log every connexion & then the client is here to display the username linked with the connection. 
 - socket.on('chat message', function(msg) { }); on the client side communicate with the server.js. 'chat message' is the name of an event present in both client & server files.
-- Just like that we can create event.
-   
+- Just like that we can create event. 'chat message' could have been named differently, but the idea is to have the same event on the client and on the server so it works in real time
+- That's pretty much all.
+
 <b>ROADMAP</b> 
 
 v0.1 : basic chat in realtime with client/server. 
